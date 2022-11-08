@@ -8,7 +8,7 @@
 		"label": "Servicios"
 	},
 	{
-		"rute": "/Contacto",
+		"rute": "/contacto",
 		"label": "Contacto"
 	},
 	{
