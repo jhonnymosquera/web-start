@@ -3,27 +3,27 @@
 		"name": "Jose Angle Palomeque",
 		"role": "Mercadeo y Ventas",
 		"avatar": {
-			"avif": "../../public/img/avatars/marketing.avif",
-			"webp": "../../public/img/avatars/marketing.webp",
-			"png": "../../public/img/avatars/marketing.png"
+			"avif": "img/avatars/marketing.avif",
+			"webp": "img/avatars/marketing.webp",
+			"png": "img/avatars/marketing.png"
 		}
 	},
 	{
 		"name": "Jose Angle Palomeque",
 		"role": "Mercadeo y Ventas",
 		"avatar": {
-			"avif": "../../public/img/avatars/web-master.avif",
-			"webp": "../../public/img/avatars/web-master.webp",
-			"png": "../../public/img/avatars/web-master.png"
+			"avif": "img/avatars/web-master.avif",
+			"webp": "img/avatars/web-master.webp",
+			"png": "img/avatars/web-master.png"
 		}
 	},
 	{
 		"name": "Jose Angle Palomeque",
 		"role": "Mercadeo y Ventas",
 		"avatar": {
-			"avif": "../../public/img/avatars/marketing.avif",
-			"webp": "../../public/img/avatars/marketing.webp",
-			"png": "../../public/img/avatars/marketing.png"
+			"avif": "img/avatars/marketing.avif",
+			"webp": "img/avatars/marketing.webp",
+			"png": "img/avatars/marketing.png"
 		}
 	}
 ]

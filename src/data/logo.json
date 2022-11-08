@@ -1,14 +1,14 @@
 {
 	"imgB": {
-		"avif": "../../public/img/logo/logo-b.avif",
-		"webp": "../../public/img/logo/logo-b.webp",
-		"png": "../../public/img/logo/logo-b.png",
+		"avif": "img/logo/logo-b.avif",
+		"webp": "img/logo/logo-b.webp",
+		"png": "img/logo/logo-b.png",
 		"alt": "Logo"
 	},
 	"imgW": {
-		"avif": "../../public/img/logo/logo-w.avif",
-		"webp": "../../public/img/logo/logo-w.webp",
-		"png": "../../public/img/logo/logo-w.png",
+		"avif": "img/logo/logo-w.avif",
+		"webp": "img/logo/logo-w.webp",
+		"png": "img/logo/logo-w.png",
 		"alt": "Logo"
 	}
 }
