@@ -7,8 +7,8 @@ function NavBar() {
 	return (
 		<nav className="nav">
 			<ul>
-				{routes.map((route) => {
-					return <NavBarLiks key={route.rute} route={route} />;
+				{routes.map((route, index) => {
+					return <NavBarLiks key={index} route={route} />;
 				})}
 			</ul>
 		</nav>

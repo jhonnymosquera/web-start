@@ -2,9 +2,9 @@
 	{
 		"description": "Producción Audio Visual",
 		"img": {
-			"avif": "img/producs/advertising.avif",
-			"png": "img/producs/advertising.png",
-			"webp": "img/producs/advertising.webp",
+			"avif": "img/producs/audio_visual.avif",
+			"webp": "img/producs/audio_visual.webp",
+			"png": "img/producs/audio_visual.png",
 			"alt": "Imagen del servicio de publicidad"
 		}
 	},
@@ -12,8 +12,8 @@
 		"description": "Desarrollo Web",
 		"img": {
 			"avif": "img/producs/code.avif",
-			"png": "img/producs/code.png",
 			"webp": "img/producs/code.webp",
+			"png": "img/producs/code.png",
 			"alt": "Imagen del servicio de codigo"
 		}
 	},
@@ -21,8 +21,8 @@
 		"description": "Diseño Gráfico",
 		"img": {
 			"avif": "img/producs/desing.avif",
-			"png": "img/producs/desing.png",
 			"webp": "img/producs/desing.webp",
+			"png": "img/producs/desing.png",
 			"alt": "Imagen del servicio de diseño"
 		}
 	},
@@ -30,8 +30,8 @@
 		"description": "Marketing Digital",
 		"img": {
 			"avif": "img/producs/marketing.avif",
-			"png": "img/producs/marketing.png",
 			"webp": "img/producs/marketing.webp",
+			"png": "img/producs/marketing.png",
 			"alt": "Imagen del servicio de marketing"
 		}
 	}
