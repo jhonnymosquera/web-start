@@ -1,7 +1,6 @@
 import Picture from '../utils/Picture';
 
 function Servicios({ params, className = '' }) {
-	console.log(params);
 	const { description, img } = params;
 
 	return (

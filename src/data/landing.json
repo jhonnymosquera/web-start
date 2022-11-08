@@ -1,6 +1,6 @@
 {
 	"background": {
-		"avif": "../../public/img/landing/background.avif",
+		"avif": "../public/img/landing/background.avif",
 		"webp": "../../public/img/landing/background.webp",
 		"png": "../../public/img/landing/background.png",
 		"alt": "imagen de fondo"
