@@ -1,3 +1,5 @@
+@use 'base/mixins' as m;
+
 @use 'base/variables' as v;
 .header {
 	position: relative;
@@ -28,10 +30,20 @@
 
 				li {
 					a {
+						padding: 5rem;
 						color: v.$negro;
 						font-weight: 500;
 						letter-spacing: 1rem;
 						text-transform: uppercase;
+						border-radius: 5rem;
+						&:hover {
+							@include m.linearGradient;
+						}
+					}
+
+					.active {
+						@include m.linearGradient;
+						color: v.$blanco;
 					}
 				}
 			}

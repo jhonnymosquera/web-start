@@ -27,14 +27,20 @@ function HomePage() {
 				</article>
 			</section>
 
-			<section className="homePage_section">
-				<h2 className="homePage_section_h2">Nuestros Servicios</h2>
+			<section className="homePage_services">
+				<h2 className="homePage_services_h2">Nuestros Servicios</h2>
 
-				{servicios.map((servicio, index) => {
-					return (
-						<Servicios key={index} params={servicio} className={'homePage_section_services'} />
-					);
-				})}
+				<div className="homePage_services_produts container">
+					{servicios.map((servicio, index) => {
+						return (
+							<Servicios
+								key={index}
+								params={servicio}
+								className={'homePage_services_produts_produt'}
+							/>
+						);
+					})}
+				</div>
 			</section>
 		</main>
 	);
