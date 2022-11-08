@@ -1,0 +1,18 @@
+[
+	{
+		"rute": "/sobre_nosotros",
+		"label": "Sobre Nosotros"
+	},
+	{
+		"rute": "/servicios",
+		"label": "Servicios"
+	},
+	{
+		"rute": "/Contacto",
+		"label": "Contacto"
+	},
+	{
+		"rute": "/portafolio",
+		"label": "Portafolio"
+	}
+]

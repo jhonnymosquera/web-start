@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Jose Angle Palomeque",
+		"role": "Mercadeo y Ventas",
+		"avatar": {
+			"avif": "../../public/img/avatars/marketing.avif",
+			"webp": "../../public/img/avatars/marketing.webp",
+			"png": "../../public/img/avatars/marketing.png"
+		}
+	},
+	{
+		"name": "Jose Angle Palomeque",
+		"role": "Mercadeo y Ventas",
+		"avatar": {
+			"avif": "../../public/img/avatars/web-master.avif",
+			"webp": "../../public/img/avatars/web-master.webp",
+			"png": "../../public/img/avatars/web-master.png"
+		}
+	},
+	{
+		"name": "Jose Angle Palomeque",
+		"role": "Mercadeo y Ventas",
+		"avatar": {
+			"avif": "../../public/img/avatars/marketing.avif",
+			"webp": "../../public/img/avatars/marketing.webp",
+			"png": "../../public/img/avatars/marketing.png"
+		}
+	}
+]

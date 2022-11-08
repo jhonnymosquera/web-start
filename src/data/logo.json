@@ -1,0 +1,14 @@
+{
+	"imgB": {
+		"avif": "../../public/img/logo/logo-b.avif",
+		"webp": "../../public/img/logo/logo-b.webp",
+		"png": "../../public/img/logo/logo-b.png",
+		"alt": "Logo"
+	},
+	"imgW": {
+		"avif": "../../public/img/logo/logo-w.avif",
+		"webp": "../../public/img/logo/logo-w.webp",
+		"png": "../../public/img/logo/logo-w.png",
+		"alt": "Logo"
+	}
+}

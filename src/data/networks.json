@@ -1,0 +1,72 @@
+[
+	{
+		"url": "",
+		"alt": "icono de youtube",
+		"imgB": {
+			"avif": "../../public/img/social-networks/youtube-b.avif",
+			"webp": "../../public/img/social-networks/youtube-b.webp",
+			"png": "../../public/img/social-networks/youtube-b.png"
+		},
+		"imaW": {
+			"avif": "../../public/img/social-networks/youtube-w.avif",
+			"webp": "../../public/img/social-networks/youtube-w.webp",
+			"png": "../../public/img/social-networks/youtube-w.png"
+		}
+	},
+	{
+		"url": "",
+		"alt": "icono de facebook",
+		"imgB": {
+			"avif": "../../public/img/social-networks/facebook-b.avif",
+			"webp": "../../public/img/social-networks/facebook-b.webp",
+			"png": "../../public/img/social-networks/facebook-b.png"
+		},
+		"imaW": {
+			"avif": "../../public/img/social-networks/facebook-w.avif",
+			"webp": "../../public/img/social-networks/facebook-w.webp",
+			"png": "../../public/img/social-networks/facebook-w.png"
+		}
+	},
+	{
+		"url": "",
+		"alt": "icono de instagram",
+		"imgB": {
+			"avif": "../../public/img/social-networks/instagram-b.avif",
+			"webp": "../../public/img/social-networks/instagram-b.webp",
+			"png": "../../public/img/social-networks/instagram-b.png"
+		},
+		"imaW": {
+			"avif": "../../public/img/social-networks/instagram-w.avif",
+			"webp": "../../public/img/social-networks/instagram-w.webp",
+			"png": "../../public/img/social-networks/instagram-w.png"
+		}
+	},
+	{
+		"url": "",
+		"alt": "icono de twitter",
+		"imgB": {
+			"avif": "../../public/img/social-networks/twitter-b.avif",
+			"webp": "../../public/img/social-networks/twitter-b.webp",
+			"png": "../../public/img/social-networks/twitter-b.png"
+		},
+		"imaW": {
+			"avif": "../../public/img/social-networks/twitter-w.avif",
+			"webp": "../../public/img/social-networks/twitter-w.webp",
+			"png": "../../public/img/social-networks/twitter-w.png"
+		}
+	},
+	{
+		"url": "",
+		"alt": "icono de ticktock",
+		"imgB": {
+			"avif": "../../public/img/social-networks/ticktock-b.avif",
+			"webp": "../../public/img/social-networks/ticktock-b.webp",
+			"png": "../../public/img/social-networks/ticktock-b.png"
+		},
+		"imaW": {
+			"avif": "../../public/img/social-networks/ticktock-w.avif",
+			"webp": "../../public/img/social-networks/ticktock-w.webp",
+			"png": "../../public/img/social-networks/ticktock-w.png"
+		}
+	}
+]

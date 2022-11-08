@@ -1,0 +1,20 @@
+{
+	"background": {
+		"avif": "../../public/img/landing/background.avif",
+		"webp": "../../public/img/landing/background.webp",
+		"png": "../../public/img/landing/background.png",
+		"alt": "imagen de fondo"
+	},
+	"ideas": {
+		"avif": "../../public/img/landing/ideas.avif",
+		"webp": "../../public/img/landing/ideas.webp",
+		"png": "../../public/img/landing/ideas.png",
+		"alt": "imagen de ideas"
+	},
+	"page": {
+		"avif": "../../public/img/landing/page.avif",
+		"webp": "../../public/img/landing/page.webp",
+		"png": "../../public/img/landing/page.png",
+		"alt": "imagen de marketing"
+	}
+}

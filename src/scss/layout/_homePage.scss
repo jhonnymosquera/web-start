@@ -1,0 +1,41 @@
+.homePage {
+	&_title {
+		text-align: center;
+		margin-top: 100rem;
+		p {
+			font-size: 50rem;
+			letter-spacing: 50rem;
+			text-transform: uppercase;
+			margin: 0;
+		}
+		h1 {
+			font-size: 190rem;
+			text-transform: uppercase;
+			margin: 0;
+		}
+	}
+	&_section {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin-top: 300rem;
+
+		img {
+			width: 70%;
+		}
+		&_article {
+			width: 40%;
+			text-align: right;
+			&_h2 {
+				font-size: 50rem;
+				text-transform: uppercase;
+			}
+			&_p {
+				font-size: 30rem;
+				span {
+					font-weight: bold;
+				}
+			}
+		}
+	}
+}
