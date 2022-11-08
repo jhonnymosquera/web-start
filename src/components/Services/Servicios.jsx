@@ -1,10 +1,10 @@
 import Picture from '../utils/Picture';
 
-function Servicios({ params, className = '' }) {
+function Servicios({ params, classsName = '' }) {
 	const { description, img } = params;
 
 	return (
-		<article className="className">
+		<article className={classsName}>
 			<Picture params={img} />
 
 			<h3>{description}</h3>
