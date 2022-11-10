@@ -1,6 +1,6 @@
 import useContexApp from '../../Context/useContextApp';
-import Logo from '../logo/Logo';
 import NavBar from '../navBar/NavBar';
+import Logo from '../utils/logo/Logo';
 import Picture from '../utils/Picture';
 
 function Header() {
@@ -13,7 +13,7 @@ function Header() {
 
 			<div className="container container-header">
 				<div className="header_Navbar">
-					<Logo />
+					<Logo imgColor="black" />
 
 					<NavBar />
 				</div>

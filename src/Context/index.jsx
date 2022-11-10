@@ -1,6 +1,6 @@
 import { Context } from './Context';
 import routes from '../data/routes';
-import networks from '../data/networks';
+import networds from '../data/networds';
 import servicios from '../data/servicios';
 import workTeam from '../data/workTeam';
 import portafolio from '../data/portafolio';
@@ -9,7 +9,9 @@ import landing from '../data/landing';
 
 function ContextProvider({ children }) {
 	return (
-		<Context.Provider value={{ routes, logo, landing, servicios }}>{children}</Context.Provider>
+		<Context.Provider value={{ routes, logo, landing, servicios, networds }}>
+			{children}
+		</Context.Provider>
 	);
 }
 

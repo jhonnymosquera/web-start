@@ -1,20 +1,20 @@
 import Servicios from '../components/Services/Servicios';
+import ButtonLink from '../components/utils/Buttons/ButtonLink';
 import Picture from '../components/utils/Picture';
 import useContexApp from '../Context/useContextApp';
 
 function HomePage() {
 	const { landing, servicios } = useContexApp();
-	const { page } = landing;
+	const { page, creative } = landing;
 
 	return (
 		<main className="homePage">
-			<div className="homePage_title">
-				<p>Somos</p>
-				<h1>Creativos</h1>
-			</div>
+			<Picture params={creative} className="homePage_title" />
 
 			<section className="homePage_section container">
-				<Picture params={page} />
+				<div className="homePage_section_image">
+					<Picture params={page} />
+				</div>
 
 				<article className="homePage_section_article">
 					<h2 className="homePage_section_article_h2">Conocenos</h2>
@@ -24,6 +24,10 @@ function HomePage() {
 						a través de estrategias <span>SEO y SEM.</span> Contamos con las herramientas y aliados
 						clave para complir con cada uno de los <span>objetivos trazados.</span>
 					</p>
+
+					<div className="homePage_section_article_button">
+						<ButtonLink className="cotizaciones" value="Cotizaciones" />
+					</div>
 				</article>
 			</section>
 

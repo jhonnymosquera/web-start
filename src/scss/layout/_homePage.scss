@@ -2,42 +2,44 @@
 @use 'base/variables' as v;
 .homePage {
 	&_title {
-		text-align: center;
-		margin-top: 100rem;
-		p {
-			font-size: 50rem;
-			letter-spacing: 50rem;
-			text-transform: uppercase;
-			margin: 0;
-		}
-		h1 {
-			font-size: 190rem;
-			text-transform: uppercase;
-			margin: 0;
+		display: flex;
+		justify-content: center;
+		margin-top: 10%;
+
+		img {
+			width: 80%;
 		}
 	}
 	&_section {
 		display: flex;
 		justify-content: space-between;
+		flex-wrap: wrap;
 		align-items: center;
 		margin-top: 300rem;
 
-		picture {
-			width: 500rem;
+		&_image {
+			width: 45%;
+			min-width: 300rem;
 		}
 
 		&_article {
-			width: 500rem;
 			text-align: right;
+			width: 55%;
+			min-width: 300rem;
 			&_h2 {
 				font-size: 50rem;
 				text-transform: uppercase;
+				font-weight: 900;
 			}
 			&_p {
 				font-size: 30rem;
 				span {
 					font-weight: bold;
 				}
+			}
+
+			&_button {
+				margin-top: 20rem;
 			}
 		}
 	}
@@ -76,4 +78,12 @@
 			}
 		}
 	}
+}
+
+.cotizaciones {
+	@include m.linearGradient;
+	color: v.$blanco;
+	font-weight: 900;
+	font-size: 40rem;
+	text-transform: uppercase;
 }

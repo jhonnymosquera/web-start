@@ -1,0 +1,92 @@
+[
+	{
+		"name": "youtube",
+		"url": "/",
+		"icon": {
+			"imgB": {
+				"avif": "img/social-networks/youtube-b.avif",
+				"webp": "img/social-networks/youtube-b.webp",
+				"png": "img/social-networks/youtube-b.png",
+				"alt": "icono de youtube"
+			},
+			"imgW": {
+				"avif": "img/social-networks/youtube-w.avif",
+				"webp": "img/social-networks/youtube-w.webp",
+				"png": "img/social-networks/youtube-w.png",
+				"alt": "icono de youtube"
+			}
+		}
+	},
+	{
+		"name": "facebook",
+		"url": "/",
+		"icon": {
+			"imgB": {
+				"avif": "img/social-networks/facebook-b.avif",
+				"webp": "img/social-networks/facebook-b.webp",
+				"png": "img/social-networks/facebook-b.png",
+				"alt": "icono de facebook"
+			},
+			"imgW": {
+				"avif": "img/social-networks/facebook-w.avif",
+				"webp": "img/social-networks/facebook-w.webp",
+				"png": "img/social-networks/facebook-w.png",
+				"alt": "icono de facebook"
+			}
+		}
+	},
+	{
+		"name": "instagram",
+		"url": "/",
+		"icon": {
+			"imgB": {
+				"avif": "img/social-networks/instagram-b.avif",
+				"webp": "img/social-networks/instagram-b.webp",
+				"png": "img/social-networks/instagram-b.png",
+				"alt": "icono de instagram"
+			},
+			"imgW": {
+				"avif": "img/social-networks/instagram-w.avif",
+				"webp": "img/social-networks/instagram-w.webp",
+				"png": "img/social-networks/instagram-w.png",
+				"alt": "icono de instagram"
+			}
+		}
+	},
+	{
+		"name": "twitter",
+		"url": "/",
+		"icon": {
+			"imgB": {
+				"avif": "img/social-networks/twitter-b.avif",
+				"webp": "img/social-networks/twitter-b.webp",
+				"png": "img/social-networks/twitter-b.png",
+				"alt": "icono de twitter"
+			},
+			"imgW": {
+				"avif": "img/social-networks/twitter-w.avif",
+				"webp": "img/social-networks/twitter-w.webp",
+				"png": "img/social-networks/twitter-w.png",
+				"alt": "icono de twitter"
+			}
+		}
+	},
+	{
+		"name": "ticktock",
+		"url": "/",
+		"icon": {
+			"imgB": {
+				"avif": "img/social-networks/ticktock-b.avif",
+				"webp": "img/social-networks/ticktock-b.webp",
+				"png": "img/social-networks/ticktock-b.png",
+				"alt": "icono de ticktock"
+			},
+			"imgW": {
+				"avif": "img/social-networks/ticktock-w.avif",
+				"webp": "img/social-networks/ticktock-w.webp",
+				"png": "img/social-networks/ticktock-w.png",
+				"alt": "icono de ticktock"
+			}
+		}
+	}
+]

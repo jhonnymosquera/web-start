@@ -5,6 +5,12 @@
 		"png": "img/landing/background.png",
 		"alt": "imagen de fondo"
 	},
+	"creative": {
+		"avif": "img/landing/creative.avif",
+		"webp": "img/landing/creative.webp",
+		"png": "img/landing/creative.png",
+		"alt": "somos creativos"
+	},
 	"ideas": {
 		"avif": "img/landing/ideas.avif",
 		"webp": "img/landing/ideas.webp",
@@ -16,5 +22,12 @@
 		"webp": "img/landing/page.webp",
 		"png": "img/landing/page.png",
 		"alt": "imagen de marketing"
+	},
+
+	"pageBuilding": {
+		"avif": "img/landing/pageBuilding.avif",
+		"webp": "img/landing/pageBuilding.webp",
+		"png": "img/landing/pageBuilding.png",
+		"alt": "Pagina en construccion"
 	}
 }

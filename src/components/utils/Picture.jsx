@@ -1,4 +1,4 @@
-function Picture({ params, className = '' }) {
+function Picture({ params, className }) {
 	return (
 		<picture className={className}>
 			<source srcSet={params.avif} type="image/avif" />

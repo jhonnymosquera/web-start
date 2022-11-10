@@ -1,4 +1,5 @@
 @use 'variables' as v;
+@use 'base/mixins' as m;
 
 html {
 	font-size: 6.25%; /*  1rem = 1px */
@@ -60,10 +61,21 @@ a {
 }
 
 .App {
-	// width: min(95%, 1400rem);
+	width: min(95%, 1400rem);
 	margin: 0 auto;
 }
 
 .container {
 	padding: 0 2%;
+}
+
+.PageBuilding {
+	margin-top: 35rem;
+	text-align: center;
+
+	h2 {
+		height: 100rem;
+		line-height: 3;
+		background-color: #d1d952;
+	}
 }
