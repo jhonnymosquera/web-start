@@ -22,7 +22,7 @@ function HomePage() {
 					<p className="homePage_section_article_p">
 						Hacemos que tu <span>Marca alcance el reconocimiento</span> deseado en todos los canales
 						a través de estrategias <span>SEO y SEM.</span> Contamos con las herramientas y aliados
-						clave para complir con cada uno de los <span>objetivos trazados.</span>
+						clave para cumplir con cada uno de los <span>objetivos trazados.</span>
 					</p>
 
 					<div className="homePage_section_article_button">

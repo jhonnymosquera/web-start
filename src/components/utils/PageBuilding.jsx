@@ -1,6 +1,8 @@
 import useContexApp from '../../Context/useContextApp';
 import Picture from './Picture';
 
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+
 function PageBuilding() {
 	const { landing } = useContexApp();
 
