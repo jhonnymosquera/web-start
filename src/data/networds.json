@@ -1,7 +1,7 @@
 [
 	{
 		"name": "youtube",
-		"url": "/",
+		"url": "https://www.youtube.com/",
 		"icon": {
 			"imgB": {
 				"avif": "img/social-networks/youtube-b.avif",
@@ -19,7 +19,7 @@
 	},
 	{
 		"name": "facebook",
-		"url": "/",
+		"url": "https://www.facebook.com/",
 		"icon": {
 			"imgB": {
 				"avif": "img/social-networks/facebook-b.avif",
@@ -37,7 +37,7 @@
 	},
 	{
 		"name": "instagram",
-		"url": "/",
+		"url": "https://www.instagram.com/",
 		"icon": {
 			"imgB": {
 				"avif": "img/social-networks/instagram-b.avif",
@@ -55,7 +55,7 @@
 	},
 	{
 		"name": "twitter",
-		"url": "/",
+		"url": "https://twitter.com/",
 		"icon": {
 			"imgB": {
 				"avif": "img/social-networks/twitter-b.avif",
@@ -73,7 +73,7 @@
 	},
 	{
 		"name": "ticktock",
-		"url": "/",
+		"url": "https://www.tiktok.com/es",
 		"icon": {
 			"imgB": {
 				"avif": "img/social-networks/ticktock-b.avif",
